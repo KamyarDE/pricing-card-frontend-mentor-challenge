@@ -1,3 +1,3 @@
 function alertUser(){
-  alert('Sie haben eingemeldet!')
+  alert('Sie haben eingemeldet!');
 }
